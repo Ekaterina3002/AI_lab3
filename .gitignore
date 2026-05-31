@@ -1,0 +1,22 @@
+# Данные
+data/
+*.zip
+
+# Веса моделей
+*.pth
+
+# Сгенерированные файлы
+generated_*.txt
+bpe_vocab.json
+bpe_merges.json
+vocabulary.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Служебное
+.claude/
+.ipynb_checkpoints/
