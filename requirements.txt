@@ -1,0 +1,4 @@
+pretty_midi>=0.2.9
+torch>=2.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
